@@ -1,7 +1,7 @@
 const CPF = require('cpf');
 const fs = require('fs');
 
-// Imprime uma mensagem de boas vindas
+// Imprime uma mensagem de boas vindas. teste de alteração
 console.log("Seja bem vindo ao cadastrador de CPFs");
 
 // 1 - Capturar o CPF digitado pelo usuário
